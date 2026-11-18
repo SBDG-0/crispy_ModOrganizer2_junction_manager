@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="8.998" y1="9.751" x2="22.498" y2="9.751" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4fb3ff"/>
+      <stop offset="1" stop-color="#0053ce"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="1.502" y1="14.249" x2="15.002" y2="14.249" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4fb3ff"/>
+      <stop offset="1" stop-color="#0053ce"/>
+    </linearGradient>
+  </defs>
+  <title>link.svg</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path d="M13.254 6.064 L14.286 5.033 C15.105 4.213 16.217 3.752 17.377 3.752 C18.536 3.752 19.648 4.213 20.468 5.033 L20.468 5.033 C21.287 5.852 21.748 6.964 21.748 8.123 C21.748 9.283 21.287 10.395 20.468 11.214 L18.182 13.5 L17.213 14.469 C16.392 15.29 15.278 15.751 14.118 15.75 C12.957 15.749 11.844 15.287 11.025 14.465 L11.025 14.465 C10.176 13.616 9.715 12.455 9.75 11.256" fill="none" stroke="url(#linear-gradient-1)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M10.746 17.936 L9.714 18.968 C8.894 19.788 7.78 20.249 6.62 20.248 C5.459 20.247 4.346 19.785 3.527 18.963 L3.527 18.963 C1.825 17.255 1.827 14.491 3.533 12.786 L6.788 9.531 C7.607 8.711 8.719 8.25 9.878 8.25 C11.038 8.25 12.15 8.711 12.969 9.531 L12.969 9.531 C13.822 10.379 14.285 11.542 14.25 12.744" fill="none" stroke="url(#linear-gradient-2)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

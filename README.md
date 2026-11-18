@@ -8,8 +8,14 @@ path affect the same files, without copying or syncing.
 
 ## Install
 
-Extract the archive into your MO2 installation. The result should be
-`plugins/JunctionManager/__init__.py`. Restart MO2 and open **Tools → Junction Manager**.
+- Extract the archive into your MO2 installation. The result should be
+`plugins/JunctionManager/__init__.py`. 
+- Restart MO2 and open **Tools → Junction Manager**.
+
+<img width="165"  alt="startfromtools" src="https://github.com/user-attachments/assets/f5cb7fbb-265f-4a16-87e3-7b5a8fbd973b" />
+
+<img width="900"  alt="main" src="https://github.com/user-attachments/assets/21e25bf6-5dc1-4e06-94cd-3fdd7596bfab" />
+
 Requires Windows 10/11 and MO2 2.5.2 with its bundled Python 3.12/PyQt6 plugin support.
 No extra Python installation, administrator mode, or Developer Mode is required.
 Windows PowerShell 5.1 creates junctions in a hidden process.

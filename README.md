@@ -13,8 +13,7 @@ path affect the same files, without copying or syncing.
 - Restart MO2 and open **Tools → Junction Manager**.
 
 <img width="165"  alt="startfromtools" src="https://github.com/user-attachments/assets/f5cb7fbb-265f-4a16-87e3-7b5a8fbd973b" />
-
-<img width="900"  alt="main" src="https://github.com/user-attachments/assets/21e25bf6-5dc1-4e06-94cd-3fdd7596bfab" />
+<img width="900"  alt="main" src="https://github.com/user-attachments/assets/5f895c15-32d4-42a7-9d7d-c7df4a98018e" />
 
 Requires Windows 10/11 and MO2 2.5.2 with its bundled Python 3.12/PyQt6 plugin support.
 No extra Python installation, administrator mode, or Developer Mode is required.
@@ -79,6 +78,7 @@ hashing; already completed changes are kept. Closing a busy window requests
 cancellation and waits for the current operation rather than abandoning it.
 
 ## Limits
+<img width="900" alt="unavailable" src="https://github.com/user-attachments/assets/7474a027-94ca-4770-ada9-5072f59ea92f" />
 
 This version handles local folders, not individual files or network-share sources.
 It detects junctions and directory symbolic links, including broken links. Nested

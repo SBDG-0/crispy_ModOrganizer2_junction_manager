@@ -67,11 +67,7 @@ when those instances next refresh; the active instance refreshes automatically.
 
 Ctrl+T shows the instance's mods folder; Ctrl+S opens the selected original folder;
 F5 refreshes the section; Delete removes selected links after confirmation.
-The Refresh button inherits MO2's existing refresh icon, including theme changes;
-there is no bundled copy of that icon. The ellipsis (`…`) on Add folder, Auto Link,
-and Relink means a dialog opens before the operation, not that text is clipped.
-The shortcut reminder appears once at the bottom of the manager. Shortcuts act
-on the instance section containing keyboard focus.
+Shortcuts act on the instance section containing keyboard focus.
 
 Long operations run in a worker thread. Cancel stops between operations or while
 hashing; already completed changes are kept. Closing a busy window requests
@@ -92,10 +88,7 @@ There are no queue modes, profiles, themes, account integration,
 telemetry, external network requests, bundled runtimes, or file-copy background
 services in this lightweight version. The interface uses MO2's existing Qt theme.
 Translations are supplied with the plugin; it makes no online translation requests.
-The help button references MO2's existing Help action icon and uses the same
-`actionHelp` stylesheet identifier. It does not load its own copy or choose a
-particular icon set. If MO2's Help icon is unavailable, Qt's standard help icon
-is used. No third-party icon files are included or relicensed by this package.
+No third-party icon files are included or relicensed by this package.
 
 ## Sharing
 
@@ -104,7 +97,8 @@ released under the **MIT License**. Copy, change, redistribute, sublicense, or u
 them commercially while retaining the copyright and permission notices with
 copies or substantial portions. See [LICENSE](LICENSE).
 
-This implementation was written for the functional requirements of Junction Manager. It contains no files, assets, translations, or imports from Symbolic Link Manager .
+This implementation was written for the functional requirements of Junction Manager. 
+It contains no files, assets, translations, or imports from Symbolic Link Manager .
 
 MO2 and its existing dependencies retain their own licenses. They are not bundled
 in this download. This license does not relicense dependencies or third-party

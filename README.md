@@ -1,4 +1,4 @@
-# Junction Manager
+# Mod Organizer 2 - Junction Manager
 
 ## Description
 
